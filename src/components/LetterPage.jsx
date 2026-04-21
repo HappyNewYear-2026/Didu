@@ -21,7 +21,7 @@ export default function LetterPage({ setCurrentPage }) {
           transition={{ duration: 0.8, delay: 0.3 }}
           className="text-2xl text-pink-300 mb-8 mt-10 md:mt-0"
         >
-          On your birthday,<br /> I truly pray for you that...!ðŸ˜Œ
+          On your birthday,<br /> I truly pray for you that...!✨
         </motion.h2>
 
         <div className="flex justify-center mb-8">
@@ -110,7 +110,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.5 }}
             className="text-xl text-purple-200 leading-relaxed"
           >
-            your birthday is filled with as much warm and lovely as the feeling you get, when you put pizza on your mouth...ðŸ•
+            your birthday is filled with as much warm and lovely as the feeling you get, when you put pizza on your mouth...🍕•
           </motion.p>
 
           <motion.p
@@ -119,12 +119,12 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.8 }}
             className="text-lg text-pink-200 leading-relaxed max-w-lg mx-auto"
           >
-            let make me more wishes for you..ðŸ¤”.<br />
+            let make me more wishes for you..🤔.<br />
             <br />
-            ðŸ”¸May God gives you lots of Happiness....ðŸ™‚<br />
-            ðŸ”¸May God keep you away from any disaster.<br />
-            ðŸ”¸May God bless you lots of Vitamins, So that your bones become strong as me.ðŸ˜<br /><br />
-            ðŸ”¸May God always keeps such a lovely smile on your face...ðŸ¤­
+            🔸May God gives you lots of Happiness....🙂<br />
+            🔸May God keep you away from any disaster.<br />
+            🔸May God bless you lots of Vitamins, So that your bones become strong as me.😁<br /><br />
+            🔸May God always keeps such a lovely smile on your face...🤭­
           </motion.p>
           <motion.p
             initial={{ opacity: 0, y: 10 }}
@@ -132,7 +132,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ delay: 3, duration: 0.8 }}
             className="text-pink-300 text-xl mt-6"
           >
-            Wish that all happiness follow you quietly, forever...â£ï¸
+            Wish that all happiness follow you quietly, forever...💕
           </motion.p>
         </motion.div>
 
